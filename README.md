@@ -1,4 +1,4 @@
-# [for hire][fulltime] Full stack Ruby on Rails developer
+## [for hire][fulltime] Full stack Ruby on Rails developer
 
 I am a Junior Ruby on Rails developer looking for full time work. I have experience with agile development methodology, object oriented programing, pair programing, and  test driven development.
 
